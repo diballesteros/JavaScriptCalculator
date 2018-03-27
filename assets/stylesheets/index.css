@@ -1,0 +1,42 @@
+body {
+    background-color: #000;
+  }
+  
+  .container {
+      height: 400px;
+      width: 300px;
+      margin-left: auto;
+      margin-right: auto;
+      background-color: #dfd8d0;
+      border: 2px solid #908b85;
+      border-radius: 20px;
+      box-shadow: 7px 10px 34px 1px rgba(0, 0, 0, 0.68), inset -1px -6px 12px 0.1px #89847e;
+  }
+  
+  .display {
+    width: 80%;
+    height: 60px;
+    border-radius: 5px;
+    border: 1px solid;
+    margin-top: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    font: 55px bold;
+    background-color: #b3e082;
+  }
+  
+  .buttons {
+    display: inline-block;
+    margin-top: 15px;
+    
+  }
+  
+  button{
+    height: 30px;
+    width: 55px;
+    margin-right: 10px;
+    margin-left: 10px;
+    font: 20px bold;
+    background-color: black;
+    color: white;
+  }
